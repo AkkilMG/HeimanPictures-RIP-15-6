@@ -10,7 +10,7 @@ Find Me In TG As [HeimanCreatiin](https://telegram.dog/HeimanCreatiin), [Heiman 
 Name = os.environ.get("NAME", "Akkil")
 About = os.environ.get("CODING", "💕")
 Age = os.environ.get("AGE", "18")
-Country = os.environ.get("COUNTRY", "🇮🇳")
+Country = os.environ.get("COUNTRY", "🇮🇳") # I Respect Every Countries Soviernity(Republic)
 ```
 #### 
 [![telegram badge](https://img.shields.io/badge/@Heiman%20Pictures-30302f?style=for-the-badge&logo=telegram)](https://t.me/HeimanCreation)
@@ -43,17 +43,21 @@ Country = os.environ.get("COUNTRY", "🇮🇳")
 
 ## My GitHub Stats💛
 
-<details>
 <summary>My GitHub Stats💛</summary>
 <br>
     
 ![Heiman Git Stats](https://github-readme-stats.vercel.app/api?username=HeimanPictures&include_all_commits=true&count_private=true&theme=highcontrast)
+```
+Don't Go With GitHub Stats As It Only Shows Stats Of the Open-Source Repos. 
+So I have 100+ Repos Private. 
+So, Don't Underestimate Any User Having Low Stats.. 😝😝🤪
+```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeimanPictures&layout=compact&theme=radical)](https://github.com/HeimanPictures)
 
 [![portfolio badge](https://img.shields.io/badge/Check_out_my-portfolio-rblue?style=for-the-badge&logo=git&logoColor=white)](http://heimanbotz.tk/)
 
-</details>
+
     
 ## Follow Me🔥:
 
@@ -78,7 +82,7 @@ Country = os.environ.get("COUNTRY", "🇮🇳")
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://git-scm.com/)
 [<img align="left" alt="Heroku" width="26px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />](https://heroku.com/)
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
-[<img align="left" alt="Pyrogram" width="60px" src="https://i.imgur.com/BOgY9ai.png" />](https://docs.pyrogram.org/)
+[<img align="left" alt="Pyrogram" width="78px" src="https://i.imgur.com/BOgY9ai.png" />](https://docs.pyrogram.org/)
 
 <br />
 <br />
@@ -90,4 +94,4 @@ Country = os.environ.get("COUNTRY", "🇮🇳")
     <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤-red?style=for-the-badge&logo=github"/>
 </p>
 
-<img align="left" alt="Terms" width="90px" src="https://img.shields.io/badge/*%20Not%20Applied%20For%20Some%20Users-TERMS%20❤-orange?style=for-the-badge&logo="/>
+<img align="left" alt="Terms" width="130px" src="https://img.shields.io/badge/*%20Not%20Applied%20For%20Some%20Users-⚠️%20TERMS-orange?style=for-the-badge&logo="/>
