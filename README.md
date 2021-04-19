@@ -2,8 +2,8 @@
 
 My Dear One 😝
 
-I am [Akkil](https://github.com/HeimanPictures), 
-Find Me In TG As [HeimanCreatiin](https://telegram.dog/HeimanCreatiin), [Heiman Creation](https://telegram.dog/HeimanCreation), Etc
+<b> I am [Akkil](https://github.com/HeimanPictures), 
+Find Me In TG As [HeimanCreatiin](https://telegram.dog/HeimanCreatiin), [Heiman Creation](https://telegram.dog/HeimanCreation), Etc,. </b>
 
 ### About 🙋🏻‍♂️
 ```python
@@ -24,6 +24,7 @@ Country = os.environ.get("COUNTRY", "🇮🇳")
 
 <img align="right" alt="cmulay | Read Book" src="https://github.com/HeimanPictures/HeimanPictures/blob/main/Design/multi.gif" width="300" height="300"/>
 
+##
 
 👋🏻 <b>I'm Your Brother* Akkil, Find Me In TG As [Heiman Creatiin](https://telegram.me/HeimanCreatiin), [Heiman Creation](https://telegram.me/HeimanCreation),etc.,</b> 😝
 
@@ -56,22 +57,19 @@ Country = os.environ.get("COUNTRY", "🇮🇳")
     
 ## Follow Me🔥:
 
-<details>
 <summary>Follow Me On Social Platform 🙇</summary>
 <br>
-Follow Me On:
 
 <p align="left">
-<a href="https://telegram.me/HeimanCreation"><img src="https://img.shields.io/badge/MySelf-Heiman%20Creation-darkblue?style=for-the-badge&logo=telegram"></a>
+<a href="https://telegram.me/HeimanCreation"><img src="https://img.shields.io/badge/MySelf-Heiman%20Creation-blue?style=for-the-badge&logo=telegram"></a>
 </p>
 <p align="left">
-<a href="https://github.com/HeimanPictures"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/HeimanPictures"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-active.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="left">
-<a href="https://www.instagram.com/combact_warrior_001/"><img src="https://img.shields.io/badge/Instagram-Heiman%20Creation-magenta?style=for-the-badge&logo=instagram"></a>
+<a href="https://www.instagram.com/combact_warrior_001/"><img src="https://img.shields.io/badge/Instagram-Heiman%20Creation-blueviolet?style=for-the-badge&logo=instagram"></a>
 </p>
 
-</details>
 
 ## Donate Me:
 [![Donate](https://img.shields.io/badge/Donate%20Us-Donate-darkgreen?style=for-the-badge)](http://www.neonbotz.tk/2021/04/donate.html?m=1)
@@ -91,3 +89,5 @@ Follow Me On:
 <p align="center">
     <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤-red?style=for-the-badge&logo=github"/>
 </p>
+
+<img align="left" alt="Terms" width="90px" src="https://img.shields.io/badge/*%20Not%20Applied%20For%20Some%20Users-TERMS%20❤-orange?style=for-the-badge&logo="/>
