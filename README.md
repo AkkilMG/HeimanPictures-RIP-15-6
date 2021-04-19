@@ -20,9 +20,9 @@ Country = os.environ.get("COUNTRY", "🇮🇳")
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HeimanPictures)
 
 
-## My Info <img src="https://github.com/HeimanPictures/HeimanPictures/design/hi.gif" width="30px"></h2>
+## My Info <img src="https://github.com/HeimanPictures/HeimanPictures/blob/main/Design/Hi.gif" width="30px"></h2>
 
-<img align="right" alt="cmulay | Read Book" src="https://github.com/HeimanPictures/HeimanPictures/designs/multi.gif" width="300" height="300"/>
+<img align="right" alt="cmulay | Read Book" src="https://github.com/HeimanPictures/HeimanPictures/blob/main/Design/multi.gif" width="300" height="300"/>
 
 
 👋🏻 <b>I'm Your Brother* Akkil, Find Me In TG As [Heiman Creatiin](https://telegram.me/HeimanCreatiin), [Heiman Creation](https://telegram.me/HeimanCreation),etc.,</b> 😝
@@ -80,7 +80,7 @@ Follow Me On:
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://git-scm.com/)
 [<img align="left" alt="Heroku" width="26px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />](https://heroku.com/)
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
-[<img align="left" alt="Pyrogram" width="26px" src="https://i.imgur.com/BOgY9ai.png" />](https://docs.pyrogram.org/)
+[<img align="left" alt="Pyrogram" width="60px" src="https://i.imgur.com/BOgY9ai.png" />](https://docs.pyrogram.org/)
 
 <br />
 <br />
