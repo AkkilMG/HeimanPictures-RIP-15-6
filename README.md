@@ -49,7 +49,7 @@ Country = os.environ.get("COUNTRY", "🇮🇳") # I Respect Every Countries Sovi
 ![Heiman Git Stats](https://github-readme-stats.vercel.app/api?username=HeimanPictures&include_all_commits=true&count_private=true&theme=highcontrast)
 ```
 Don't Go With GitHub Stats As It Only Shows Stats Of the Open-Source Repos. 
-So I have 100+ Repos Private. 
+So I have 100+ Repos Private And Contributed In Many Users Private Repos.
 So, Don't Underestimate Any User Having Low Stats.. 😝😝🤪
 ```
 
