@@ -9,7 +9,7 @@ Find Me In TG As [HeimanCreatiin](https://telegram.dog/HeimanCreatiin), [Heiman 
 ```python
 Name = os.environ.get("NAME", "Akkil")
 About = os.environ.get("CODING", "💕")
-Age = os.environ.get("AGE", "18")
+Age = int(os.environ.get("AGE", "18"))
 Country = os.environ.get("COUNTRY", "🇮🇳") # I Respect Every Countries Soviernity(Republic)
 ```
 #### 
