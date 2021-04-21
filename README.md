@@ -2,12 +2,12 @@
 
 My Dear One 😝
 
-<b> I am [Akkil](https://github.com/HeimanPictures), 
+<b> I am [Heiman](https://github.com/HeimanPictures), 
 Find Me In TG As [HeimanCreatiin](https://telegram.dog/HeimanCreatiin), [Heiman Creation](https://telegram.dog/HeimanCreation), Etc,. </b>
 
 ### About 🙋🏻‍♂️
 ```python
-Name = os.environ.get("NAME", "Akkil")
+Name = os.environ.get("NAME", "Heiman")
 About = os.environ.get("CODING", "💕")
 Age = int(os.environ.get("AGE", "18"))
 Country = os.environ.get("COUNTRY", "🇮🇳") # I Respect Every Countries Soviernity(Republic)
@@ -26,7 +26,7 @@ Country = os.environ.get("COUNTRY", "🇮🇳") # I Respect Every Countries Sovi
 
 ##
 
-👋🏻 <b>I'm Your Brother* Akkil, Find Me In TG As [Heiman Creatiin](https://telegram.me/HeimanCreatiin), [Heiman Creation](https://telegram.me/HeimanCreation),etc.,</b> 😝
+👋🏻 <b>I'm Your Brother* Heimanl, Find Me In TG As [Heiman Creatiin](https://telegram.me/HeimanCreatiin), [Heiman Creation](https://telegram.me/HeimanCreation),etc.,</b> 😝
 
 - 🔭 I’m currently working with Python, Other Languages Also.
 
@@ -47,6 +47,7 @@ Country = os.environ.get("COUNTRY", "🇮🇳") # I Respect Every Countries Sovi
 <br>
     
 ![Heiman Git Stats](https://github-readme-stats.vercel.app/api?username=HeimanPictures&include_all_commits=true&count_private=true&theme=highcontrast)
+
 ```
 Don't Go With GitHub Stats As It Only Shows Stats Of the Open-Source Repos. 
 So I have 100+ Repos Private And Contributed In Many Users Private Repos.
