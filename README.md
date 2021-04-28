@@ -7,7 +7,7 @@ Find Me In TG As [HeimanCreatiin](https://telegram.dog/HeimanCreatiin), [Heiman 
 
 ### About 🙋🏻‍♂️
 ```python
-Name = os.environ.get("NAME", "Heiman")
+UserName = os.environ.get("USER_NAME", "Heiman")
 Love = os.environ.get("CODING", "💕") # Lol Except Someone Special ( Don't Ask Who Is It )
 Age = int(os.environ.get("AGE", "18"))
 Country = os.environ.get("COUNTRY", "🇮🇳") # I Respect Every Countries Soviernity(Republic)
@@ -46,7 +46,7 @@ Country = os.environ.get("COUNTRY", "🇮🇳") # I Respect Every Countries Sovi
 <summary>My GitHub Stats💛</summary>
 <br>
     
-![Heiman Git Stats](https://github-readme-stats.vercel.app/api?username=HeimanPictures&include_all_commits=true&count_private=true&theme=highcontrast)
+[![Heiman Git Stats](https://github-readme-stats.vercel.app/api?username=HeimanPictures&include_all_commits=true&count_private=true&theme=highcontrast)](https://github.com/HeimanPictures)
 
 ```
 Don't Go With GitHub Stats As It Only Shows Stats Of the Open-Source Repos. 
