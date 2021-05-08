@@ -58,6 +58,10 @@ So, Don't Underestimate Any User Having Low Stats.. 😝😝🤪
 
 [![portfolio badge](https://img.shields.io/badge/Check_out_my-portfolio-rblue?style=for-the-badge&logo=git&logoColor=white)](http://www.heimanbotz.tk/)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeimanPictures&layout=compact&theme=radical)](https://github.com/HeimanPictures)
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HeimanPictures" alt="HeimanPictures" /></a> </p>
 
     
