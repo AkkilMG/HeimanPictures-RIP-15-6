@@ -43,7 +43,7 @@ Country = os.environ.get("COUNTRY", "🇮🇳") # I Respect Every Countries Sovi
 
 ## My GitHub Stats💛
 
-<summary>My GitHub Stats💛</summary>
+
 <br>
     
 [![Heiman Git Stats](https://github-readme-stats.vercel.app/api?username=HeimanPictures&include_all_commits=true&count_private=true&theme=highcontrast)](https://github.com/HeimanPictures)
