@@ -26,11 +26,11 @@ Country = os.environ.get("COUNTRY", "🇮🇳") # I Respect Every Countries Sovi
 
 ##
 
-👋🏻 <b>I'm Your Brother* Heimanl, Find Me In TG As [Heiman Creatiin](https://telegram.me/HeimanCreatiin), [Heiman Creation](https://telegram.me/HeimanCreation),etc.,</b> 😝
+👋🏻 <b>I'm Your Brother* Heiman, Find Me In TG As [Heiman Creatiin](https://telegram.me/HeimanCreatiin), [Heiman Creation](https://telegram.me/HeimanCreation),etc.,</b> 😝
 
 - 🔭 I’m currently working with Python, Other Languages Also.
 
-- 🌱 I’m currently studying in 12th 😉
+- 🌱 I’m currently studying in 12th 😉, And I Am A BioLogy Student...👨‍⚕️
 
 - 📫 How to reach me: [Heiman Creation](https://telegram.me/HeimanCreation)
 
