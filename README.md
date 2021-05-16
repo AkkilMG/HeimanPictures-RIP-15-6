@@ -11,6 +11,7 @@ UserName = os.environ.get("USER_NAME", "Heiman")
 Love = os.environ.get("CODING", "💕") # Lol Except Someone Special ( Don't Ask Who Is It )
 Age = int(os.environ.get("AGE", "18"))
 Country = os.environ.get("COUNTRY", "🇮🇳") # I Respect Every Countries Soviernity(Republic)
+Relation = os.environ.get("SINGLE", "single") # LMAO 🤣🤣🤣
 ```
 #### 
 [![telegram badge](https://img.shields.io/badge/@Heiman%20Pictures-30302f?style=for-the-badge&logo=telegram)](https://t.me/HeimanCreation)
