@@ -49,12 +49,6 @@ Relation = os.environ.get("SINGLE", "single") # LMAO 🤣🤣🤣
     
 [![Heiman Git Stats](https://github-readme-stats.vercel.app/api?username=HeimanPictures&include_all_commits=true&count_private=true&theme=highcontrast)](https://github.com/HeimanPictures)
 
-```
-Don't Go With GitHub Stats As It Only Shows Stats Of the Open-Source Repos. 
-So I have 100+ Repos Private And Contributed In Many Users Private Repos.
-So, Don't Underestimate Any User Having Low Stats.. 😝😝🤪
-```
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HeimanPictures&" alt="HeimanPictures" /></p>
 
 [![portfolio badge](https://img.shields.io/badge/Check_out_my-portfolio-rblue?style=for-the-badge&logo=git&logoColor=white)](http://www.heimanbotz.tk/)
