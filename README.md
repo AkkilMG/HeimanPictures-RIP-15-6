@@ -21,39 +21,12 @@ Relation = os.environ.get("SINGLE", "single") # LMAO 🤣🤣🤣
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HeimanPictures)
 
 
-## My Info <img src="https://github.com/HeimanPictures/HeimanPictures/blob/main/Design/Hi.gif" width="30px"></h2>
-
-<img align="right" alt="cmulay | Read Book" src="https://github.com/HeimanPictures/HeimanPictures/blob/main/Design/multi.gif" width="300" height="300"/>
-
-##
-
-👋🏻 <b>I'm Your Brother* Heiman, Find Me In TG As [Heiman Creatiin](https://telegram.me/HeimanCreatiin), [Heiman Creation](https://telegram.me/HeimanCreation),etc.,</b> 😝
-
-- 🔭 I’m currently working with Python, Other Languages Also.
-
-- 🌱 I’m currently studying in 12th 😉, And I Am A BioLogy Student...👨‍⚕️
-
-- 📫 How to reach me: [Heiman Creation](https://telegram.me/HeimanCreation)
-
-- 💬 Mail Me : [CLICK HERE](mailto:heimanpictures5219@gmail.com)
-
-- 👨‍💻 Join Telegram Channel : <a href="https://t.me/heimansupports"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
-
-- 👨‍💻 Join Telegram Group : <a href="https://t.me/heimansupport"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
-
-
-## My GitHub Stats💛
+### My GitHub Stats💛
 
 
 <br>
     
 [![Heiman Git Stats](https://github-readme-stats.vercel.app/api?username=HeimanPictures&include_all_commits=true&count_private=true&theme=highcontrast)](https://github.com/HeimanPictures)
-
-```
-Don't Go With GitHub Stats As It Only Shows Stats Of the Open-Source Repos. 
-So I have 100+ Repos Private And Contributed In Many Users Private Repos.
-So, Don't Underestimate Any User Having Low Stats.. 😝😝🤪
-```
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HeimanPictures&" alt="HeimanPictures" /></p>
 
